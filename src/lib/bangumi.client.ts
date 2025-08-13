@@ -23,7 +23,7 @@ export interface BangumiCalendarData {
 }
 
 export async function GetBangumiCalendarData(): Promise<BangumiCalendarData[]> {
-  const response = await fetch('https://api.bgm.tv/calendar');
+  const response = await fetch('https://155api.com/api.php/provide/vod');
   const data = await response.json();
   return data;
 }
