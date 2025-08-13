@@ -1,4 +1,16 @@
 {
+    "custom_category": [
+    {
+      "name": "我的专属分类",
+      "api": "https://155api.com/api.php/provide/vod/at/json",
+      "target": "_blank" // 可选，可设置链接打开方式
+    },
+    {
+      "name": "热门推荐",
+      "api": "https://155api.com/api.php/provide/vod/at/json",
+      "target": "_self"
+    }
+  ],
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
