@@ -6,11 +6,13 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-  "custom_category": [    
+  "custom_category": [
     {
       "name": "AV",
       "type": "movie",
       "query": "日本 成人"
+    }
+  ]
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
