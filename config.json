@@ -6,14 +6,6 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-  "custom_category": [
-    {
-      "name": "AV",
-      "type": "movie",
-      "query": "日本 成人"
-    }
-  ]
-    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
@@ -92,6 +84,12 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+     "custom_category": [
+    {
+      "name": "AV",
+      "type": "movie",
+      "query": "华语"
     }
-  }
+  ]
 }
