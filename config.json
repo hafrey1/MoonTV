@@ -1,16 +1,4 @@
 {
-    "custom_category": [
-    {
-      "name": "我的专属分类",
-      "api": "https://155api.com/api.php/provide/vod/at/json",
-      "target": "_blank" 
-    },
-    {
-      "name": "热门推荐",
-      "api": "https://155api.com/api.php/provide/vod/at/json",
-      "target": "_self"
-    }
-  ],
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
@@ -97,12 +85,5 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
-  },
-    "custom_category": [
-    {
-      "name": "AV",
-      "type": "movie",
-      "query": "华语"
-    }
-  ]
+  }
 }
