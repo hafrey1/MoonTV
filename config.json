@@ -5,14 +5,12 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
-    }
-    // ...更多站点
-  },
-  "custom_category": [
+    },
+  "custom_category": [    
     {
-      "name": "华语",
+      "name": "AV",
       "type": "movie",
-      "query": "华语"
+      "query": "日本 成人"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
